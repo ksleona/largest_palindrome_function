@@ -2,7 +2,6 @@
 #include <iostream>
 using namespace std;
 
-
 //function for calculating the reversed number
 int reverse (int number) {
     int reversed = 0;
